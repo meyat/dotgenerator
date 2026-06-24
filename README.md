@@ -54,36 +54,6 @@ open index.html
 # atau klik dua kali file index.html
 ```
 
-### Deploy ke GitHub Pages
-1. Push ke repositori GitHub
-2. Masuk ke **Settings → Pages**
-3. Pilih **Source: Deploy from branch → main → / (root)**
-4. Selesai! Akses di `https://username.github.io/dotmail-generator`
-
----
-
-## 📂 Struktur File
-
-```
-dotmail-generator/
-├── index.html    # Markup utama & struktur UI
-├── style.css     # Styling lengkap (dark mode, responsif)
-├── app.js        # Logika generator, export, share, history
-└── README.md     # Dokumentasi ini
-```
-
----
-
-## 🎨 Desain
-
-- **Tema**: Dark mode elegan dengan aksen Indigo (#6366f1)
-- **Font**: Inter (UI) + JetBrains Mono (email/kode)
-- **Tanpa framework** — zero dependencies kecuali dua library CDN untuk export:
-  - [jsPDF](https://github.com/parallax/jsPDF) — export PDF
-  - [SheetJS](https://sheetjs.com/) — export Excel
-
----
-
 ## 🔧 Kustomisasi
 
 ### Tambah Domain Baru
