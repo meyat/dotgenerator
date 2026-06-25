@@ -52,13 +52,6 @@ git clone https://github.com/username/dotmail-generator.git
 # Buka langsung di browser
 open index.html
 # atau klik dua kali file index.html
-```
-
-### Deploy ke GitHub Pages
-1. Push ke repositori GitHub
-2. Masuk ke **Settings → Pages**
-3. Pilih **Source: Deploy from branch → main → / (root)**
-4. Selesai! Akses di `https://username.github.io/dotmail-generator`
 
 ---
 
