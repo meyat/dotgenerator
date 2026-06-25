@@ -52,7 +52,7 @@ git clone https://github.com/username/dotmail-generator.git
 # Buka langsung di browser
 open index.html
 # atau klik dua kali file index.html
-
+```
 ---
 
 ## 📂 Struktur File
